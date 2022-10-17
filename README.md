@@ -1,7 +1,7 @@
 # mycode 
 
-Terraform repo
-
+This git repo is a Terraform repo for Training terraform
+modifying this line to test version control
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine
